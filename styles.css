@@ -1,0 +1,33 @@
+html{
+    background: skyblue;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+.uno{
+    background: red;
+    text-align: center;
+}
+.container-menu{
+    display: inline-block;
+    position: relative;
+    width: 980px;
+    height: 50px;
+    box-sizing: border-box;
+    background: green;
+
+    
+
+}
+
+.titulo{
+    font-size: 15px;
+    position: absolute;
+    top: 10px;
+}
+
+nav ul{
+    text-align: center;
+    position: absolute;
+    left: 55px;
+}
